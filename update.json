@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "v1.9",
-  "url": "https://raw.githubusercontent.com/oqba26/prayertimes-updates/main/PrayerTimes-v1.9.apk",
-  "releaseNotes": "🔔 فیکس پخش اذان روی گوشی‌های سامسونگ + طراحی جدید دیالوگ آپدیت + بهبود پایداری",
+  "versionCode": 11,
+  "versionName": "v1.10",
+  "url": "https://raw.githubusercontent.com/oqba26/prayertimes-updates/main/PrayerTimes-v1.10.apk",
+  "releaseNotes": "🔔 فیکس پخش اذان تمام‌صفحه روی سامسونگ و اندروید ۱۴ + فیکس رندر نوتیفیکیشن + دیالوگ آپدیت بازطراحی‌شده + بهبود دانلود و ترجمه‌ها",
   "isForceUpdate": false
 }
