@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "v1.11",
-  "url": "https://raw.githubusercontent.com/oqba26/prayertimes-updates/main/PrayerTimes-v1.11.apk",
-  "releaseNotes": "🔔 فیکس کرش هنگام نمایش دیالوگ آپدیت (۱.۹ و ۱.۱۰) + دیالوگ‌ها با تم برنامه رندر می‌شوند",
+  "versionCode": 13,
+  "versionName": "v1.12",
+  "url": "https://raw.githubusercontent.com/oqba26/prayertimes-updates/main/PrayerTimes-v1.12.apk",
+  "releaseNotes": "🔔 فیکس اسم برنامه (نمایش فارسی روی همه گوشی‌ها) + فیکس نمایش دیالوگ مجوز اذان فقط روی سامسونگ",
   "isForceUpdate": false
 }
