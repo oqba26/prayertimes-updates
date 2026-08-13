@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "v1.12",
-  "url": "https://raw.githubusercontent.com/oqba26/prayertimes-updates/main/PrayerTimes-v1.12.apk",
-  "releaseNotes": "🔔 فیکس اسم برنامه (نمایش فارسی روی همه گوشی‌ها) + فیکس نمایش دیالوگ مجوز اذان فقط روی سامسونگ",
+  "versionCode": 14,
+  "versionName": "v1.13",
+  "url": "https://raw.githubusercontent.com/oqba26/prayertimes-updates/main/PrayerTimes-v1.13.apk",
+  "releaseNotes": "🔔 فیکس کرش هنگام بوت قفل‌شده (Direct Boot) + پیش‌فرض‌های جدید اذان (صدای مکه و پخش ۳۰/۲۱ دقیقه قبل از نماز)",
   "isForceUpdate": false
 }
