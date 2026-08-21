@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "v1.13",
-  "url": "https://raw.githubusercontent.com/oqba26/prayertimes-updates/main/PrayerTimes-v1.13.apk",
-  "releaseNotes": "🔔 فیکس کرش هنگام بوت قفل‌شده (Direct Boot) + پیش‌فرض‌های جدید اذان (صدای مکه و پخش ۳۰/۲۱ دقیقه قبل از نماز)",
+  "versionCode": 15,
+  "versionName": "v1.14",
+  "url": "https://raw.githubusercontent.com/oqba26/prayertimes-updates/main/PrayerTimes-v1.14.apk",
+  "releaseNotes": "✨ افزودن تم‌های پاستلی جدید (بنفش، صورتی، آبی، رنگین‌کمانی) و بهبود بومی‌سازی تاریخ و زمان در بخش‌های مختلف برنامه",
   "isForceUpdate": false
 }
